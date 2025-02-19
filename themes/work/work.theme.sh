@@ -1,5 +1,5 @@
 #! bash oh-my-bash.module
-# Will Work Bash Prompt, inspired by "Sexy Bash Prompt"
+# Work Theme, an customization of "Sexy"
 # Screenshot: TBD
 
 if [[ $COLORTERM == gnome-* && $TERM == xterm ]] && infocmp gnome-256color &>/dev/null; then
